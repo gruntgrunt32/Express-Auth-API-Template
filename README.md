@@ -17,8 +17,8 @@ Ensure you have **Node.js (16.x or newer)** installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/express-auth-api.git
-cd express-auth-api
+git clone https://github.com/gruntgrunt32/Express-Auth-API-Template.git
+cd Express-Auth-API-Template
 
 # Install dependencies
 npm install
@@ -115,22 +115,17 @@ Authorization: Bearer <your-jwt-token>
 - `npm run dev`: Start development server
 - `npm start`: Start production server
 
-## 📜 License
+---
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📢 Support
-
-For support, email support@yourdomain.com or open an issue in the GitHub repository.
+## 📜 License  
+This project is open-source and licensed under the **MIT License**.  
 
 ---
 
-Made with ❤️ by [Your Name]
+## 📢 Connect with Austin Reed  
+🔗 **GitHub:** [gruntgrunt32](https://github.com/gruntgrunt32)  
+🔗 **Website:** [austin-reed.com](https://austin-reed.com)  
+
+---
+
+### 🎉 **Happy Coding!** 🚀  
